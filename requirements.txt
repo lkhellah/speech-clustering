@@ -1,0 +1,8 @@
+librosa
+numpy
+matplotlib
+scikit-learn
+pandas
+huggingface_hub
+datasets
+python-dotenv

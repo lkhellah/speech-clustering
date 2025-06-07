@@ -14,5 +14,3 @@ This script:
 - Authenticates with Hugging Face using  .env file
 - Loads the Google Speech Commands dataset
 - Extracts and prints features from a single audio sample (NOW for testing purposes, changing later)
-
-
